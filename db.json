@@ -1,0 +1,46 @@
+{
+  "users": [
+    {
+      "name": "Adnan",
+      "email": "adnan@mil.com",
+      "phone": "1234",
+      "description": "junior developer ",
+      "id": 1
+    },
+    {
+      "name": "Jawad",
+      "email": "jawad@mil.com",
+      "phone": "983547",
+      "description": "dlskjflkdiewre",
+      "id": 2
+    },
+    {
+      "name": "Dawood",
+      "email": "dawood@.mil.com",
+      "phone": "0000000",
+      "description": "lskdfjkdlfksdkl",
+      "id": 4
+    },
+    {
+      "name": "Afaq",
+      "email": "afaq@mil.com",
+      "phone": "02930394",
+      "description": "lksdjflkjfd",
+      "id": 5
+    },
+    {
+      "name": "Azaz",
+      "email": "azaz@mil.com",
+      "phone": "39284",
+      "description": "twe dksfjew lkkdjf eoerixnz j",
+      "id": 6
+    },
+    {
+      "name": "Usama",
+      "email": "usama@mil.com",
+      "phone": "1234567890",
+      "description": "sdklt dfkdfj fd",
+      "id": 7
+    }
+  ]
+}
